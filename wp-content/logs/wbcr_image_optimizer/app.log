@@ -1,0 +1,112 @@
+
+10-09-2022 16:50:00 [vzdravkovic.wppsbootcamp.com][info] Parent plugin start installation!
+10-09-2022 16:50:00 [vzdravkovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+10-09-2022 16:50:00 [vzdravkovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+10-09-2022 16:50:03 [vzdravkovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/wio_backup)
+-------------------------------
+10-09-2022 16:50:10 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:10 [vzdravkovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/wio_backup/2022/09)
+10-09-2022 16:50:10 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Logo-Portfolio.png) to a remote server (server_1).
+10-09-2022 16:50:11 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:11 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Logo-Portfolio-150x150.png) to a remote server (server_1).
+10-09-2022 16:50:11 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:11 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Logo-Portfolio-300x300.png) to a remote server (server_1).
+10-09-2022 16:50:11 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:11 [vzdravkovic.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;15&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:66199,&quot;final_size&quot;:29416,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:33727,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828611}
+10-09-2022 16:50:11 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+10-09-2022 16:50:11 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:11 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/IMG_20220713_140758_edit_82009968939047-scaled.jpg) to a remote server (server_1).
+10-09-2022 16:50:12 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:12 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/IMG_20220713_140758_edit_82009968939047-150x150.jpg) to a remote server (server_1).
+10-09-2022 16:50:12 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:12 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/IMG_20220713_140758_edit_82009968939047-247x300.jpg) to a remote server (server_1).
+10-09-2022 16:50:12 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:12 [vzdravkovic.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;22&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:299107,&quot;final_size&quot;:125003,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:286435,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828612}
+10-09-2022 16:50:12 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+10-09-2022 16:50:12 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:12 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/markus-winkler-U2-VxAIi24o-unsplash-scaled.jpg) to a remote server (server_1).
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/markus-winkler-U2-VxAIi24o-unsplash-150x150.jpg) to a remote server (server_1).
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/markus-winkler-U2-VxAIi24o-unsplash-300x200.jpg) to a remote server (server_1).
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;49&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:520413,&quot;final_size&quot;:219099,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:500166,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828613}
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/clark-tibbs-oqStl2L5oxI-unsplash-scaled.jpg) to a remote server (server_1).
+10-09-2022 16:50:13 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/clark-tibbs-oqStl2L5oxI-unsplash-150x150.jpg) to a remote server (server_1).
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/clark-tibbs-oqStl2L5oxI-unsplash-300x200.jpg) to a remote server (server_1).
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;50&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:252232,&quot;final_size&quot;:110422,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:243461,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828614}
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/kisspng-wordpress-logo-computer-icons-5af5d407e4a404.2768761215260600399365.jpg) to a remote server (server_1).
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/kisspng-wordpress-logo-computer-icons-5af5d407e4a404.2768761215260600399365-150x150.jpg) to a remote server (server_1).
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/kisspng-wordpress-logo-computer-icons-5af5d407e4a404.2768761215260600399365-300x173.jpg) to a remote server (server_1).
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;54&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:49205,&quot;final_size&quot;:46109,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:37779,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828614}
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:14 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/WordPress-logo-on-black-background.gif) to a remote server (server_1).
+10-09-2022 16:50:15 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:15 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/WordPress-logo-on-black-background-150x150.gif) to a remote server (server_1).
+10-09-2022 16:50:15 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:15 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/WordPress-logo-on-black-background-300x188.gif) to a remote server (server_1).
+10-09-2022 16:50:15 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:15 [vzdravkovic.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;55&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:15737,&quot;final_size&quot;:13434,&quot;original_mime_type&quot;:&quot;image\/gif&quot;,&quot;final_mime_type&quot;:&quot;image\/gif&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:9039,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828615}
+10-09-2022 16:50:15 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+10-09-2022 16:50:15 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:16 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Roman.png) to a remote server (server_1).
+10-09-2022 16:50:17 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:17 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Roman-150x150.png) to a remote server (server_1).
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Roman-300x142.png) to a remote server (server_1).
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;72&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:2219064,&quot;final_size&quot;:400253,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:2136444,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828618}
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/javier-garcia-chavez-bdZ3bzRde5g-unsplash-scaled.jpg) to a remote server (server_1).
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/javier-garcia-chavez-bdZ3bzRde5g-unsplash-150x150.jpg) to a remote server (server_1).
+10-09-2022 16:50:18 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:19 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/javier-garcia-chavez-bdZ3bzRde5g-unsplash-300x176.jpg) to a remote server (server_1).
+10-09-2022 16:50:19 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:19 [vzdravkovic.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;94&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:322781,&quot;final_size&quot;:136063,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:308215,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828619}
+10-09-2022 16:50:19 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+10-09-2022 16:50:19 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:19 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Digitel.png) to a remote server (server_1).
+10-09-2022 16:50:20 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:20 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Digitel-150x150.png) to a remote server (server_1).
+10-09-2022 16:50:20 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:20 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Digitel-300x149.png) to a remote server (server_1).
+10-09-2022 16:50:20 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:20 [vzdravkovic.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;106&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1378252,&quot;final_size&quot;:389371,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:1291430,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828620}
+10-09-2022 16:50:20 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+10-09-2022 16:50:21 [vzdravkovic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+10-09-2022 16:50:21 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Trpkovic.png) to a remote server (server_1).
+10-09-2022 16:50:23 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:23 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Trpkovic-150x150.png) to a remote server (server_1).
+10-09-2022 16:50:23 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:23 [vzdravkovic.wppsbootcamp.com][info] Preparing to upload a file (/home/vzdravkovic/public_html/portfolio/wp-content/uploads/2022/09/Trpkovic-300x149.png) to a remote server (server_1).
+10-09-2022 16:50:23 [vzdravkovic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+10-09-2022 16:50:23 [vzdravkovic.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;109&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1792875,&quot;final_size&quot;:415664,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:1698485,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1662828623}
+10-09-2022 16:50:23 [vzdravkovic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+10-09-2022 16:50:46 [vzdravkovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+10-09-2022 16:50:46 [vzdravkovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
