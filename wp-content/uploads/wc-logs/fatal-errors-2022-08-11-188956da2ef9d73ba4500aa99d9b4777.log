@@ -1,0 +1,8 @@
+2022-08-11T20:32:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/vzdravkovic/public_html/digitel/wp-content/plugins/google-listings-and-ads/src/DB/Query.php on line 459
+
+2022-08-11T20:32:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/vzdravkovic/public_html/digitel/wp-content/plugins/google-listings-and-ads/src/DB/Query.php on line 459
+
+2022-08-11T20:32:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/vzdravkovic/public_html/digitel/wp-content/plugins/google-listings-and-ads/src/API/Google/Ads.php on line 1
+
+2022-08-11T20:32:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/vzdravkovic/public_html/digitel/wp-content/plugins/google-listings-and-ads/src/DB/Query.php on line 459
+
