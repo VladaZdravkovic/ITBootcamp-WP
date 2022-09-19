@@ -1,0 +1,54 @@
+
+
+  
+    
+    
+    
+    <title>Projekat is under construction</title>
+    
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,600,900">
+    <link rel="stylesheet" href="https://vzdravkovic.wppsbootcamp.com/projekat/wp-content/plugins/under-construction-page/themes/css/bootstrap.min.css?v=3.93" type="text/css">
+<link rel="stylesheet" href="https://vzdravkovic.wppsbootcamp.com/projekat/wp-content/plugins/under-construction-page/themes/css/common.css?v=3.93" type="text/css">
+<link rel="stylesheet" href="https://vzdravkovic.wppsbootcamp.com/projekat/wp-content/plugins/under-construction-page/themes/work_desk/style.css?v=3.93" type="text/css">
+<link rel="stylesheet" href="https://vzdravkovic.wppsbootcamp.com/projekat/wp-content/plugins/under-construction-page/themes/css/font-awesome.min.css?v=3.93" type="text/css">
+<link rel="icon" href="https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_webp/https://vzdravkovic.wppsbootcamp.com/projekat/wp-content/plugins/under-construction-page/themes/images/favicon.png" data-spai-egr="1" />
+  
+
+  
+    <div class="container">
+
+      <div class="row">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+          <h1>Sorry, we're doing some work on the site</h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12 col-md-8 col-md-offset-2 col-lg-offset-2 col-lg-8">
+          <p class="content">Thank you for being patient. We are doing some work on the site and will be back shortly.</p>
+        </div>
+      </div>
+
+      <div class="row" id="social">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+          
+        </div>
+      </div>
+
+    </div>
+    <div class=" spai-bg-prepared" id="desk" style="background-image: url(https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_webp/https://vzdravkovic.wppsbootcamp.com/projekat/wp-content/plugins/under-construction-page/themes/work_desk/work_desk.png)">&nbsp;</div>
+    <div id="login-button" class="loggedout"><a href="https://vzdravkovic.wppsbootcamp.com/projekat/wp-login.php"><i class="fa fa-wordpress fa-2x" aria-hidden="true"></i></a></div>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript">
+    jQuery(function($) {
+      $(window).on('resize', function() {
+        if ($(window).width() &gt; 767) {
+          tmp = $(window).height() - $('.container').height();
+          $('#desk').height(tmp);
+        }
+      }).trigger('resize');
+    });
+    </script>
+  
+
